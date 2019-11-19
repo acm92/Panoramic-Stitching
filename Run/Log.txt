@@ -1,0 +1,853 @@
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+TDI E (c_matrix_functions,  293) Can't multiply (elm by elm) matrices with different size
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+Por favor, introduzca el nombre de la imagen 3 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+ 
+**************************
+Analizando imagenes 2 y 3
+**************************
+ 
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+Por favor, introduzca el nombre de la imagen 3 y su extension
+TDI E (c_image_bmp,  160) File doesn't exist : HercuesY.bmp
+TDI E (c_image_bmp,  160) File doesn't exist : f
+TDI E (tdi,  490) Error: No existe la imagen 2, ha introducido mal el nombre o formato incorrecto.
+TDI E (tdi,  491) Error: No existe la imagen 3, ha introducido mal el nombre o formato incorrecto.
+Reinicie el programa e intentelo de nuevo.
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+Por favor, introduzca el nombre de la imagen 3 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+ 
+**************************
+Analizando imagenes 2 y 3
+**************************
+ 
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+Por favor, introduzca el nombre de la imagen 3 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+ 
+**************************
+Analizando imagenes 2 y 3
+**************************
+ 
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Suavizando linea de separacion entre imagenes...
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+TDI E (c_image_bmp,  160) File doesn't exist : Hercules2.bmo
+TDI E (tdi,  474) Error: No existe la imagen 2, ha introducido mal el nombre o formato incorrecto.
+Reinicie el programa e intentelo de nuevo.
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...
+ 
+ 
+Busca la imagen: Imagen_Unida.bmp en la carpeta Run 
+ 
+**************************************
+IMAGEN UNIDA
+Programa Finalizado
+Autor: Angel Ciudad Montalban
+Copyright (c) 2019
+**************************************
+ 
+ALGORITMO: IMAGEN PANORAMICA
+-----------------------------
+Cuantas imagenes va a unir? (Elija 2 o 3)
+Por favor, introduzca el nombre de la imagen 1 y su extension
+Por favor, introduzca el nombre de la imagen 2 y su extension
+ 
+**************************
+Analizando imagenes 1 y 2
+**************************
+Dependiendo del tamanio de la imagen este proceso podria tardar unos minutos, espere por favor...

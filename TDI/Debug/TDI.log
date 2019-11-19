@@ -1,0 +1,7 @@
+﻿  TDI.cpp
+c:\users\angel\onedrive\desktop\tdi\proyectotdi\source\tdi.cpp(89): warning C4244: 'return': conversión de '__int64' a 'long'; posible pérdida de datos
+c:\users\angel\onedrive\desktop\tdi\proyectotdi\source\tdi.cpp(98): warning C4244: 'return': conversión de '__int64' a 'long'; posible pérdida de datos
+c:\users\angel\onedrive\desktop\tdi\proyectotdi\source\tdi.cpp(116): warning C4244: '=': conversión de 'C_Matrix::ElementT' a '__int64'; posible pérdida de datos
+c:\users\angel\onedrive\desktop\tdi\proyectotdi\source\tdi.cpp(119): warning C4244: '=': conversión de 'C_Matrix::ElementT' a '__int64'; posible pérdida de datos
+c:\users\angel\onedrive\desktop\tdi\proyectotdi\source\tdi.cpp(122): warning C4244: '=': conversión de 'C_Matrix::ElementT' a '__int64'; posible pérdida de datos
+  TDI.vcxproj -> C:\Users\angel\OneDrive\Desktop\TDI\ProyectoTDI\Debug\TDI.exe
